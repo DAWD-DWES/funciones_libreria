@@ -73,8 +73,8 @@
                 <td class="respuesta"><?php var_dump(cos(deg2rad(60))); ?></td>
             </tr>
             <tr>
-                <td>max(5, 8, 3)</td>
-                <td class="respuesta"><?php var_dump(max(5, 8, 3)); ?></td>
+                <td>min(5, 8, 3)</td>
+                <td class="respuesta"><?php var_dump(min(5, 8, 3)); ?></td>
             </tr>
             <tr>
                 <td>chunk_split("Hola mundo!",1,".")</td>
